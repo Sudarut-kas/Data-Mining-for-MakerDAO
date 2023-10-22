@@ -71,7 +71,7 @@ WHERE DATE(block_timestamp) >= "2019-11-12"
 ORDER BY CAST(block_number as INT64), CAST(transaction_index as INT64), trace_addr_str
 
 ```
-# Acknowleadgements
+# Acknowledgements
 
 Thanks to Yury Yanavich, my supervisor, for doing the research.
 
