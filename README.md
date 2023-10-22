@@ -44,7 +44,7 @@ pandarallel.initialize(progress_bar=True, nb_workers=8)
 
 # Quick start
 
-Getting data from Google Biquery \
+Getting data from [Google Biquery](https://cloud.google.com/bigquery?hl=th)\
 **Dataset ID:** bigquery-public-data.crypto_ethereum
 
 ```sql
@@ -71,6 +71,13 @@ WHERE DATE(block_timestamp) >= "2019-11-12"
 ORDER BY CAST(block_number as INT64), CAST(transaction_index as INT64), trace_addr_str
 
 ```
-[1]: http://google.com/ "Google"
+# Acknowleadgements
+
+Thanks to Yury Yanavich, my supervisor, for doing the research.
+
+This repository includes adaptations of the following:
+- [Makerdao-Risk-Model](https://gitlab.com/gregorymel/makerdao-risk-model/-/blob/master/big_query.sql)
+  
+
 
 
