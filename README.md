@@ -71,6 +71,10 @@ WHERE DATE(block_timestamp) >= "2019-11-12"
 ORDER BY CAST(block_number as INT64), CAST(transaction_index as INT64), trace_addr_str
 
 ```
+# Dataset
+MakerDAO dataset from VAT module since the platform started to 31 July 2023
+[transaction dataset](https://drive.google.com/file/d/1KJ551BYvw6vVx7pgHYkFPXU9Em0zkHuB/view?usp=share_link)
+
 # Acknowledgements
 
 Thanks to Yury Yanavich, my supervisor, for doing the research.
