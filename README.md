@@ -75,6 +75,10 @@ ORDER BY CAST(block_number as INT64), CAST(transaction_index as INT64), trace_ad
 MakerDAO dataset from VAT module since the platform started to 31 July 2023
 [transaction dataset](https://drive.google.com/file/d/1KJ551BYvw6vVx7pgHYkFPXU9Em0zkHuB/view?usp=share_link)
 
+# Additional
+MakerDAO data from smart contracts needs ABIs file to decode the transaction.
+You can get into this [MakerDAO Chainlog](https://ipfs.io/ipfs/bafybeid6dreur7nlcuqrdz7irtyffwvt3pvyzvac3cfdxmznw6kmoxmj3a) for any ABI file you want. 
+
 # Acknowledgements
 
 Thanks to Yury Yanavich, my supervisor, for doing the research.
