@@ -81,7 +81,7 @@ You can get into this [MakerDAO Chainlog](https://ipfs.io/ipfs/bafybeid6dreur7nl
 
 # Acknowledgements
 
-Thanks to Yury Yanavich, my supervisor, for doing the research.
+Thanks to Yury Yanavich, my supervisor, for supporting the research.
 
 This repository includes adaptations of the following:
 - [Makerdao-Risk-Model](https://gitlab.com/gregorymel/makerdao-risk-model/-/blob/master/big_query.sql)
