@@ -79,6 +79,10 @@ MakerDAO dataset from VAT module since the platform started to 31 July 2023
 MakerDAO data from smart contracts needs ABIs file to decode the transaction.
 You can get into this [MakerDAO Chainlog](https://ipfs.io/ipfs/bafybeid6dreur7nlcuqrdz7irtyffwvt3pvyzvac3cfdxmznw6kmoxmj3a) for any ABI file you want. 
 
+# Article
+Loan Portfolio Dataset From MakerDAO Blockchain Project [IEEE](https://ieeexplore.ieee.org/abstract/document/10423641)
+
+
 # Acknowledgements
 
 Thanks to Yury Yanavich, my supervisor, for supporting the research.
